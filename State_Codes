@@ -1,4 +1,3 @@
-State Code,State Name,FIPS Code
 AL,Alabama,01
 AK,Alaska,02
 AZ,Arizona,04
@@ -49,3 +48,5 @@ WA,Washington,53
 WV,West Virginia,54
 WI,Wisconsin,55
 WY,Wyoming,56
+DC,District of Columbia,11
+PR,Puerto Rico,72
